@@ -162,5 +162,5 @@ EX2-Deep-Learning-Comparative-Study/
 │   └── adam_optimizer_model.keras
 │
 └── results/
-    ├── activation_comparison
-    └── optimizer_comparison
+    ├── activation function results.csv
+    └── optimizer_comparison_results.csv
